@@ -95,4 +95,4 @@ async function connectToWhatsApp() {
 
 // Start Bot Connection
 connectToWhatsApp();
-             
+            
