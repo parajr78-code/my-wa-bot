@@ -1,7 +1,7 @@
 {
-  "name": "whatsapp-auto-reply",
+  "name": "whatsapp-bot",
   "version": "1.0.0",
-  "description": "WhatsApp Auto Reply Bot with 10 min Cooldown on Render",
+  "description": "WhatsApp Auto Reply Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
